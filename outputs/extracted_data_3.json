@@ -1,0 +1,8 @@
+{
+  "issue_title": "Session expiration after successful login",
+  "component_affected": "Authentication system",
+  "error_message": "Authentication failed: Session expired",
+  "time_reference": "before market close",
+  "severity": "high",
+  "technical_details": "none"
+}

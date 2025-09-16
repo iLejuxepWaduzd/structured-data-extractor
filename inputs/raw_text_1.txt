@@ -1,0 +1,1 @@
+User reported issue with our fintech platform: "I was trying to transfer $5,000 to my savings account yesterday around 3:45 PM, but got an error message saying 'Transaction limit exceeded'. This is frustrating because my daily limit is definitely set to $10,000. I need this resolved ASAP as it's time-sensitive."

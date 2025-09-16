@@ -1,0 +1,19 @@
+Analyze the following text and extract structured information about the reported issue.
+
+Follow this thinking process:
+1. Identify the main problem or feature mentioned
+2. Locate any specific error messages or codes
+3. Note the time or date references if present
+4. Determine the severity based on impact described
+5. Extract any technical details like device or version info
+
+Format the output as JSON with these exact field names:
+- issue_title
+- component_affected
+- error_message (or "none" if not specified)
+- time_reference (or "none" if not specified)
+- severity (low, medium, high, or critical)
+- technical_details (or "none" if not specified)
+
+Text to analyze:
+{{text_input}}

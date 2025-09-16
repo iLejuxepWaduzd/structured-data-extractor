@@ -1,0 +1,1 @@
+Customer feedback from mobile banking app: The app crashed when I tried to view my transaction history. Error code: APP_CRASH_2023. I was on the dashboard, clicked on "Recent Transactions" and the app just closed. This happened three times today. Using iPhone 14 with iOS 16.5.

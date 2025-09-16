@@ -1,0 +1,8 @@
+{
+  "issue_title": "Transaction limit error despite sufficient limit",
+  "component_affected": "Fund transfer system",
+  "error_message": "Transaction limit exceeded",
+  "time_reference": "yesterday around 3:45 PM",
+  "severity": "high",
+  "technical_details": "none"
+}

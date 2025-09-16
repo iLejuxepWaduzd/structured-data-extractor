@@ -1,0 +1,8 @@
+{
+  "issue_title": "Bill pay feature not working after update",
+  "component_affected": "Bill pay feature",
+  "error_message": "none",
+  "time_reference": "after last update",
+  "severity": "critical",
+  "technical_details": "Version 2.3.1 of the banking app"
+}

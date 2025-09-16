@@ -1,0 +1,8 @@
+{
+  "issue_title": "App crash when viewing transaction history",
+  "component_affected": "Mobile banking app",
+  "error_message": "APP_CRASH_2023",
+  "time_reference": "today",
+  "severity": "medium",
+  "technical_details": "iPhone 14 with iOS 16.5"
+}

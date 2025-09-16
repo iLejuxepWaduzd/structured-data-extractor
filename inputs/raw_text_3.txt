@@ -1,0 +1,1 @@
+Support ticket: User can't access investment portfolio. Keeps getting "Authentication failed: Session expired" message even after successful login. Customer says they're trying to check their stock portfolio before market close. High priority.
